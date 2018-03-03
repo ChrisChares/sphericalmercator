@@ -36,5 +36,6 @@
     "xyz": "bin/xyz.js",
     "to900913": "bin/to900913.js",
     "to4326": "bin/to4326.js"
-  }
+  },
+  "types": "./sphericalmercator.d.ts"
 }
